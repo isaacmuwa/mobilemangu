@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="meka_orange">#ec7812</color>
+<color name="meka_white">#ffffff</color>
+<color name="loading_text">#5d5d5d</color>
+<color name="meka_grey">#5d5d5d</color>   
+<color name="meka_grey_light">#acaaa8</color> 
+<color name="meka_white_dark">#efefef</color>
+<color name="meka_blue">#2271e8</color>
+<color name="meka_blue2">#27408B</color>
+<color name="meka_green">#10ab1b</color>
+<color name="meka_red">#cb0000</color>
+<color name="meka_black">#000000</color>
+<color name="actionbar_background_start">#3A5FCD</color>
+<color name="actionbar_background_end">#27408B</color>
+<color name="actionbar_separator">#27408B</color>
+</resources>

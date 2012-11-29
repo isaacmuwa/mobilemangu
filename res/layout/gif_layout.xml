@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="3dp"
+    android:orientation="horizontal" 
+   	android:layout_marginTop="80dp"
+    android:background="@color/meka_white"
+   	android:id="@+id/loading_bar"
+ >
+        
+		<dev.app.mangu.GIFView
+		 
+    		android:layout_marginLeft="30dp" 
+        	android:layout_width="60dp" 
+        	android:layout_height="wrap_content"
+        	android:tag="Loading....."
+        	android:id="@+id/GIFSingle">
+        </dev.app.mangu.GIFView>
+     
+		   
+		  <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+    
+              android:textStyle="bold"
+              android:padding="7dip"
+              android:textSize="15dip"
+            android:textColor="@color/loading_text"
+            android:text="@string/loading"           
+            />  
+        
+</LinearLayout>
+
+
